@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-10-24T06:36:21.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="Gn8U5Fk02tMmhkGUKG01" version="22.0.6" type="device">
+  <diagram name="Страница — 1" id="qdAgzljEMNScbxH3U1kH">
+    <mxGraphModel dx="1386" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-1" target="NDLWNA66E1N-gRNYeRTP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-1" value="Разработать мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-2" value="Сформировать ТЗ к 12.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-3" value="Построить диаграммы (диаграмма классов, Use case) к 12.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-4" target="NDLWNA66E1N-gRNYeRTP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-4" value="Сформировать требования к 10.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-5" value="Изучить HTTP-методы к&amp;nbsp; 15.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-10" value="Изучить warframe эскизы к 18.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-12" value="Создать БД к 30.12.2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-14" target="NDLWNA66E1N-gRNYeRTP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-14" value="Показать&amp;nbsp; тестовую версию приложения к 11.02.2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-16" value="Исправление ошибок к 20.02.2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDLWNA66E1N-gRNYeRTP-18" target="NDLWNA66E1N-gRNYeRTP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-18" value="Показать итоговую версию приложения к 01.03.2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-20" value="Тестирование приложения к 05.03.2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDLWNA66E1N-gRNYeRTP-22" value="Опубликовать приложение на сайте университета к 01.04.2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
